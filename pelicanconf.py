@@ -15,6 +15,7 @@ JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
 }
 ARTICLE_PATHS = ['articles']
+PAGE_PATHS = ['pages']
 
 
 ###Backdrop settings
